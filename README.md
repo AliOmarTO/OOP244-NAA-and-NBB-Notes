@@ -8,7 +8,7 @@ This is done using what I call Workshop Zero; through a series of videos instruc
  
 We will start this together in the first class (make sure you attend) but the detailed instructions of the workshop will be announced shortly.
 
-Here are the Videos. The duedate for [Workshop Zero](https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC) is Friday May 20th.
+Here are the Videos. The duedate for [Workshop Zero](https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC) is Monday Sep 12th.
 
 https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
 
