@@ -8,7 +8,7 @@ This is done using what I call Workshop Zero; through a series of videos instruc
  
 We will start this together in the first class (make sure you attend) but the detailed instructions of the workshop will be announced shortly.
 
-Here are the Videos. The duedate for [Workshop Zero](https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC) is Friday May 20th.
+Here are the Videos. The duedate for [Workshop Zero](https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC) is Monday Sep 12th.
 
 https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
 
@@ -27,7 +27,7 @@ I strongly suggest for students to review other section's recordings as well, if
 ### NAA
 
 ### NBB
-
+- [Sep 6th - Introduction](https://youtu.be/o4ZxmmyRKx4)
 
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/team/19%3a2hdGro6WaVUDjrFIHHNuD9Q-oRzNJzcCtxiSwfufwTg1%40thread.tacv2/conversations?groupId=4fc12032-1253-4d66-ace0-b42fa38b540f&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
