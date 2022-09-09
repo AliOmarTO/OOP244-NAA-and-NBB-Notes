@@ -12,6 +12,15 @@ Here are the Videos. The duedate for [Workshop Zero](https://www.youtube.com/pla
 
 https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
 
+### Mac Users and Workshop Zero
+Workshop Zero is designed for windows, as you are required to learn and work with visual studio as an advanced IDE.<br />
+For Mac, either you have to do all the git commands through command line, or you need to install a Virtual Machine and then do the lab:
+- [Install Fusion Vmware](https://www.vmware.com/ca/products/fusion/fusion-evaluation.html)
+- [Install Windows 10 on Fusion VM](https://www.groovypost.com/howto/create-custom-virtual-machine-vmware-fusion/)
+
+
+Fusion 12 Player and Fusion 12 Pro are the best way to run Windows on the Mac, and the ultimate development and testing utility. Discover why.
+www.vmware.com
 
 ## 144100 review session  for 244200 students
 The review session on IPC144/BTP100 was held on monday may 13th at 10 AM<br />
