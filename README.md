@@ -15,7 +15,7 @@ https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
 ### Mac Users and Workshop Zero
 Workshop Zero is designed for windows, as you are required to learn and work with visual studio as an advanced IDE.<br />
 For Mac, either you have to do all the git commands through command line, or you need to install a Virtual Machine and then do the lab:
-- [Install Fusion Vmware](https://www.vmware.com/ca/products/fusion/fusion-evaluation.html)
+- [Install Fusion Vmware](https://www.vmware.com/ca/products/fusion/fusion-evaluation.html) Fusion is free for students; click on ["Register Lisence for Personal Use"](https://customerconnect.vmware.com/web/vmware/evalcenter?p=fusion-player-personal) 
 - [Install Windows 10 on Fusion VM](https://www.groovypost.com/howto/create-custom-virtual-machine-vmware-fusion/)
 
 ## 144100 review session  for 244200 students
