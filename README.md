@@ -12,6 +12,11 @@ Here are the Videos. The duedate for [Workshop Zero](https://www.youtube.com/pla
 
 https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
 
+### Mac Users and Workshop Zero
+Workshop Zero is designed for windows, as you are required to learn and work with visual studio as an advanced IDE.<br />
+For Mac, either you have to do all the git commands through command line, or you need to install a Virtual Machine and then do the lab:
+- [Install Fusion Vmware](https://www.vmware.com/ca/products/fusion/fusion-evaluation.html) Fusion is free for students; click on ["Register Lisence for Personal Use"](https://customerconnect.vmware.com/web/vmware/evalcenter?p=fusion-player-personal) 
+- [Install Windows 10 on Fusion VM](https://www.groovypost.com/howto/create-custom-virtual-machine-vmware-fusion/)
 
 ## 144100 review session  for 244200 students
 The review session on IPC144/BTP100 was held on monday may 13th at 10 AM<br />
@@ -25,7 +30,7 @@ This session was open to all the students who needed to review the 144/100 conce
 ## Recordings of Previous (NAA and NBB) lecture Sessions
 I strongly suggest for students to review other section's recordings as well, if time permits...
 ### NAA
-
+- [Sep 7th - Introduction (only second half is recorded. Make sure you watch the NBB section's too)](https://youtu.be/lVdVoEc936I)
 ### NBB
 - [Sep 6th - Introduction](https://youtu.be/o4ZxmmyRKx4)
 
