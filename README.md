@@ -30,7 +30,7 @@ This session was open to all the students who needed to review the 144/100 conce
 ## Recordings of Previous (NAA and NBB) lecture Sessions
 I strongly suggest for students to review other section's recordings as well, if time permits...
 ### NAA
-- [Sep 7th - Introduction (only second half is recorded. Make sure you watch the NBB section's too)](https://youtu.be/lVdVoEc936I)
+- [Sep 7th - Introduction (only second half is recorded. Make sure you watch the NBB section's too)](https://youtu.be/jo9VsTgp9ZY)
 ### NBB
 - [Sep 6th - Introduction](https://youtu.be/o4ZxmmyRKx4)
 
