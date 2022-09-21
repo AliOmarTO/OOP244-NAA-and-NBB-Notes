@@ -7,34 +7,15 @@ namespace sdds {
       int m_amount;
       int m_volume;
       char* m_content;
+   public:
+      bool isSafeEmpty();
       void init();
       void clearup();
-   public:
-      Container();
-      ~Container();
-      void set(const char* content, int amount, int volume = 220);
-      bool isSafeEmpty()const;
-  
       void setAmount(int value);
-      ostream& display()const;
+      void display();
       void read();
    };
-   Container::Container(){
-      init();
-   }
-   Container::~Container(){
-      clearup();
-   }
-   void Container::set(const char* content, int amount, int volume){
-      char content[256];
-      delete[] m_content;
-      m_content = new char[strlen(content) + 1];
-      strcpy(m_content, content);
-      if (amount > volume) amount = volume;
-      m_amount = amount;
-      m_volume = volume;
-   }
-   bool Container::isSafeEmpty() const{ // Query
+   bool Container::isSafeEmpty() {
       return m_content == nullptr;
    }
    void Container::init() {
@@ -51,18 +32,18 @@ namespace sdds {
       }
       m_amount = value;
    }
-   ostream& Container::display()const {
+   void Container::display() {
       if (!isSafeEmpty())
          cout << m_content << ", " << m_amount << " of " << m_volume << " liters";
       else
          cout << "This contianer is not set!" << endl;
-      return cout;
    }
    void Container::read() {
       char content[256];
       int amount{};
-      int volume{};
       do {
+         delete[] m_content;
+         m_content = nullptr;
          if (cin.fail()) {
             cin.clear();
             cin.ignore(1000, '\n');
@@ -70,29 +51,25 @@ namespace sdds {
          cout << "Content: ";
          cin.getline(content, 256);
          if (cin) {
+            m_content = new char[strlen(content) + 1];
+            strcpy(m_content, content);
             cout << "Container volume: ";
          }
-         cin >> volume;
+         cin >> m_volume;
          if (cin) cout << m_content << " amount: ";
          cin >> amount;
-         if (cin.fail())
-            cout << "Bad data " << endl;
-         else {
-            set(content, amount, volume);
-         }
+         setAmount(amount);
+         if (cin.fail()) cout << "Bad data " << endl;
       } while (cin.fail());
    }
 }
 using namespace sdds;
-void DisplayContainerWithARow(int row, const Container& C) {
-   cout << row << ": ";
-   C.display() << endl;
-}
-
-
 int main() {
    Container Cnt;
-   Cnt.read();
+   Cnt.init();
+  /* Cnt.read();
+   Cnt.setAmount(50);*/
    Cnt.display();
+   Cnt.clearup();
    return 0;
 }
