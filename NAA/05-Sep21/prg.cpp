@@ -26,7 +26,6 @@ namespace sdds {
       clearup();
    }
    void Container::set(const char* content, int amount, int volume){
-      char content[256];
       delete[] m_content;
       m_content = new char[strlen(content) + 1];
       strcpy(m_content, content);
@@ -73,7 +72,7 @@ namespace sdds {
             cout << "Container volume: ";
          }
          cin >> volume;
-         if (cin) cout << m_content << " amount: ";
+         if (cin) cout << content << " amount: ";
          cin >> amount;
          if (cin.fail())
             cout << "Bad data " << endl;
