@@ -8,11 +8,13 @@ namespace sdds {
       init();
    }
    Container::Container(const char* content) {
+      init();
       set(content, 220, 220);
    }
 
    Container::Container(const char* content, 
                         int amount, int volume) {
+      init();
       set(content, amount, volume);
    }
 
