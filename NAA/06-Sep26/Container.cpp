@@ -5,16 +5,16 @@ using namespace std;
 namespace sdds {
 
    Container::Container() {
-      init();
+      //init();
    }
    Container::Container(const char* content) {
-      init();
+      //init();
       set(content, 220, 220);
    }
 
    Container::Container(const char* content, 
                         int amount, int volume) {
-      init();
+      //init();
       set(content, amount, volume);
    }
 
@@ -37,10 +37,10 @@ namespace sdds {
    bool Container::isSafeEmpty() const { // Query
       return m_content == nullptr;
    }
-   void Container::init() {
+   /*void Container::init() {
       m_content = nullptr;
       m_volume = m_amount = 0;
-   }
+   }*/
 
    void Container::setAmount(int value) {
       if(value > m_volume) {

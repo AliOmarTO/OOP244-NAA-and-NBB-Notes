@@ -4,10 +4,10 @@
 namespace sdds {
    class Container{
    private:
-      int m_amount;
-      int m_volume;
-      char* m_content;
-      void init();
+      int m_amount{};
+      int m_volume{};
+      char* m_content{};
+      //void init();
       void clearup();
    public:
       Container(); // no argument constructor or default constructors
