@@ -8,7 +8,7 @@ namespace sdds {
       int m_volume{};
       char* m_content{};
       //void init();
-      void clearup();
+      Container& clearup();
    public:
       Container(); // no argument constructor or default constructors
 
@@ -20,12 +20,12 @@ namespace sdds {
 
 
       ~Container();
-      void set(const char* content, int amount, int volume = 220);
+      Container& set(const char* content, int amount, int volume = 220);
       bool isSafeEmpty()const;
 
-      void setAmount(int value);
+      Container& setAmount(int value);
       std::ostream& display()const;
-      void read();
+      Container& read();
    };
 }
 #endif

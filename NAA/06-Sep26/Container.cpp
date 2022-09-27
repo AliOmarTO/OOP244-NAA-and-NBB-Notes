@@ -21,7 +21,7 @@ namespace sdds {
    Container::~Container() {
       clearup();
    }
-   void Container::set(const char* content, 
+   Container& Container::set(const char* content, 
                        int amount, int volume) {
       delete[] m_content;
       m_content = new char[strlen(content) + 1];
@@ -29,10 +29,12 @@ namespace sdds {
       if(amount > volume) amount = volume;
       m_amount = amount;
       m_volume = volume;
+      return *this;
    }
-   void Container::clearup() {
+   Container& Container::clearup() {
       delete[] m_content;
       m_content = nullptr;
+      return *this;
    }
    bool Container::isSafeEmpty() const { // Query
       return m_content == nullptr;
@@ -42,11 +44,12 @@ namespace sdds {
       m_volume = m_amount = 0;
    }*/
 
-   void Container::setAmount(int value) {
+   Container& Container::setAmount(int value) {
       if(value > m_volume) {
          value = m_volume;
       }
       m_amount = value;
+      return *this;
    }
    ostream& Container::display()const {
       if(!isSafeEmpty())
@@ -55,7 +58,7 @@ namespace sdds {
          cout << "This contianer is not set!" << endl;
       return cout;
    }
-   void Container::read() {
+   Container& Container::read() {
       char content[256];
       int amount{};
       int volume{};
@@ -78,5 +81,7 @@ namespace sdds {
             set(content, amount, volume);
          }
       } while(cin.fail());
+      cin.ignore(1000, '\n');
+      return *this;
    }
 }

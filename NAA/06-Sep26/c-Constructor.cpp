@@ -8,10 +8,8 @@ void DisplayContainerWithARow(int row, const Container& C) {
 }
 
 int main() {
-   Container C;
-   C.read().display() << endl;
-   C.set("Water", 100, 50).display() << endl;
-
-
+//   Container C("Milk", 10, 9); // old
+   Container C{ "Milk", 10, 9 };  // universal init
+   C.display() << endl;
    return 0;
 }
