@@ -35,6 +35,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [Sep 14th - references, overloading, DMA intro](https://youtu.be/RGS7ylieduE)
 - [Sep 19th - DMA](https://youtu.be/mtTvp21P-7U)
 - [Sep 21st - Member functions and privacy](https://youtu.be/rr_L7PdG0k0)
+- [Sep 26th - Constructors, Destructors and current objects](https://youtu.be/Y6VNJuu03Co)
 
 ### NBB
 - [Sep 6th - Introduction](https://youtu.be/o4ZxmmyRKx4)
@@ -42,6 +43,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [Sep 16th - references, overloading](https://youtu.be/ynYbuvXlVGQ)
 - [Sep 20th - DMA](https://youtu.be/7ynsc03ILtQ)
 - [Sep 23rd - Member functions and privacy](https://youtu.be/23GqQ4eNeH4)
+- [Sep 27th - Constructors, Destructors and current object](https://youtu.be/zG_cuIov8y8)
 
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/team/19%3a2hdGro6WaVUDjrFIHHNuD9Q-oRzNJzcCtxiSwfufwTg1%40thread.tacv2/conversations?groupId=4fc12032-1253-4d66-ace0-b42fa38b540f&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
