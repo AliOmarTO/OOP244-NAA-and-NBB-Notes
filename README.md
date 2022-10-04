@@ -37,6 +37,8 @@ I strongly suggest for students to review other section's recordings as well, if
 - [Sep 21st - Member functions and privacy](https://youtu.be/rr_L7PdG0k0)
 - [Sep 26th - Constructors, Destructors and current objects](https://youtu.be/Y6VNJuu03Co)
 - [Sep 28th - Constructors, Destructors and operator overloading review](https://youtu.be/gmfMDwnnLOU)
+- [Sep 30th - missing]()
+- [Oct 4th - operator Overloading](https://youtu.be/-bE0RNgOEpM)
 
 ### NBB
 - [Sep 6th - Introduction](https://youtu.be/o4ZxmmyRKx4)
