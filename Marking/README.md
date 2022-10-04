@@ -39,6 +39,7 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 |[RD](#rd) |  Unnecessary or redundant logic used in code. |
 |[RF](#rf) |  Insufficient or Empty reflection |
 |[RS](#rs) |  Research the behaviour of the functions used instead of assuming what they do |
+|[RT](#rt) |  Return statement in the middle of a function |
 |[REUSE](#reuse) |  Reuse the code and logic that are already implemented in your functions |
 |[SM](#sm) |  The code could have been written much shorter in length and simpler |
 |[SPAM](#spam)|  Too many submissions |
@@ -69,7 +70,45 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 [Back to Feedback List](#list)
 ------------------------------------
 -->
-
+## RT
+### Feedback
+Exiting the function in the middle of the function, a function must have one point of entry and one point of exit unless it is impossiple to do so (which is very rare)
+### Problematic code sample
+```C++
+	void TagList::add(const NameTag& nt) {
+		for (int i = 0; i < count; i++) {
+			if (strlen(tagList[i].get()) == 0) {
+				tagList[i].set(nt.get());
+				return;  //<< one point of exit
+			}
+		}
+		//<< another point of exit.
+	}
+```
+### The Fix
+```C++
+	void TagList::add(const NameTag& nt) {
+	    bool done = false;
+		for (int i = 0; !done  && i < count; i++) {
+			if (strlen(tagList[i].get()) == 0) {
+				tagList[i].set(nt.get());
+				done = true;
+			}
+		}
+	}
+	// OR:
+	void TagList::add(const NameTag& nt) {
+		for (int i = 0; i < count; i++) {
+			if (strlen(tagList[i].get()) == 0) {
+				tagList[i].set(nt.get());
+				i = count; // breaking the loop
+			}
+		}
+	}
+```
+------------------------------------
+[Back to Feedback List](#list)
+------------------------------------
 ## FRD
 ### Feedback 
 Friend helper functions used instead of using queries and calling them in the helper functions<br />
