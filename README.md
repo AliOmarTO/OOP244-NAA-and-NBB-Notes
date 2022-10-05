@@ -37,6 +37,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [Sep 21st - Member functions and privacy](https://youtu.be/rr_L7PdG0k0)
 - [Sep 26th - Constructors, Destructors and current objects](https://youtu.be/Y6VNJuu03Co)
 - [Sep 28th - Constructors, Destructors and operator overloading review](https://youtu.be/gmfMDwnnLOU)
+- [Oct03rd - Constructors Q&A, Workshop 4](https://youtu.be/ab8dT0AzXZY)
 
 
 ### NBB
@@ -46,7 +47,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [Sep 20th - DMA](https://youtu.be/7ynsc03ILtQ)
 - [Sep 23rd - Member functions and privacy](https://youtu.be/23GqQ4eNeH4)
 - [Sep 27th - Constructors, Destructors and current object](https://youtu.be/zG_cuIov8y8)
-- [Sep 30th - missing]()
+- [Sep 30th - Constturctors review and operator overload intro](https://youtu.be/q19o_Lmizz0)
 - [Oct 4th - operator Overloading](https://youtu.be/-bE0RNgOEpM)
 
 # Office
