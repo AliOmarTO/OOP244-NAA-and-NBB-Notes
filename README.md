@@ -49,6 +49,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [Sep 27 - Constructors, Destructors and current object](https://youtu.be/zG_cuIov8y8)
 - [Sep 30 - Constturctors review and operator overload intro](https://youtu.be/q19o_Lmizz0)
 - [Oct 04 - operator Overloading](https://youtu.be/-bE0RNgOEpM) Also Watch Oct 5th of Section A
+- [Oct 07 - operator overloading **conversion(cast) overloading**](https://youtu.be/9fK58JeIBR4)
 
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/team/19%3a2hdGro6WaVUDjrFIHHNuD9Q-oRzNJzcCtxiSwfufwTg1%40thread.tacv2/conversations?groupId=4fc12032-1253-4d66-ace0-b42fa38b540f&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
