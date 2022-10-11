@@ -4,6 +4,7 @@
 namespace sdds {
    class Name {
       char* m_value{};
+      void allocateAndCopy(const char* value);
    public:
       Name(const char* value = nullptr);
       Name(const Name& toCopyFrom);
