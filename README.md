@@ -39,6 +39,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [Sep 28 - Constructors, Destructors and operator overloading review](https://youtu.be/gmfMDwnnLOU)
 - [Oct 03 - Constructors Q&A, Workshop 4](https://youtu.be/ab8dT0AzXZY)
 - [Oct 05 - Operators and Operator overload](https://youtu.be/UAssdp_55qs) Also watch Oct 4th of Section B
+- [Oct 12 - Rule of three;classes with resource](https://youtu.be/zD8tQ4XekKc)
 
 ### NBB
 - [Sep 06 - Introduction](https://youtu.be/o4ZxmmyRKx4)
@@ -50,6 +51,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [Sep 30 - Constturctors review and operator overload intro](https://youtu.be/q19o_Lmizz0)
 - [Oct 04 - operator Overloading](https://youtu.be/-bE0RNgOEpM) Also Watch Oct 5th of Section A
 - [Oct 07 - operator overloading **conversion(cast) overloading**](https://youtu.be/9fK58JeIBR4)
+- [Oct 11 - Rule of Three; classes with resource](https://youtu.be/MubE_KsKOy8)
 
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/team/19%3a2hdGro6WaVUDjrFIHHNuD9Q-oRzNJzcCtxiSwfufwTg1%40thread.tacv2/conversations?groupId=4fc12032-1253-4d66-ace0-b42fa38b540f&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
