@@ -1,24 +1,11 @@
-#include <cstdio>
+#include <iostream>
+#include "Name.h"
 using namespace std;
-class output {
-public:
-   output& operator<<(int val) {
-      printf("%d", val);
-      return *this;
-   }
-   output& operator<<(double val) {
-      printf("%.2lf", val);
-      return *this;
-   }
-   output& operator<<(const char* val) {
-      printf(val);
-      return *this;
-   }
-};
+using namespace sdds;
 int main() {
-   output fout;
-   int age = 35;
-   double salary = 123456.45;
-   fout << "Hello I am a progammer, I am " << age << " year old and I am make " << salary << " Dollara a year!\n";
+   Name N;
+   cout << "What is your name? ";
+   cin >> N;
+   cout << N << " said DOH!" << endl;
    return 0;
 }
