@@ -8,14 +8,12 @@ namespace sdds {
       IntArray(unsigned int size = 1);
       IntArray(const IntArray& I);
       IntArray& operator=(const IntArray& I);
-      IntArray& operator=(const int array[]);
-      IntArray& set(const int array[], unsigned arraySize);
       ~IntArray();
-      void resize(unsigned newsize);
       unsigned size()const;
       operator bool()const;
-      int& operator[](unsigned int index);
-      const int& operator[](unsigned int index)const;
+      int& element(unsigned int index);
+      const int& element(unsigned int index)const;
+
    };
 }
 #endif // !SDDS_INTARRAY_H
