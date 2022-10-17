@@ -31,21 +31,29 @@ This session was open to all the students who needed to review the 144/100 conce
 I strongly suggest for students to review other section's recordings as well, if time permits...
 ### NAA
 - [Sep 7th - Introduction (only second half is recorded. Make sure you watch the NBB section's too)](https://youtu.be/jo9VsTgp9ZY)
-- [Sep 12th - OOP intro](https://youtu.be/JNOX4XDOrBg)
-- [Sep 14th - references, overloading, DMA intro](https://youtu.be/RGS7ylieduE)
-- [Sep 19th - DMA](https://youtu.be/mtTvp21P-7U)
-- [Sep 21st - Member functions and privacy](https://youtu.be/rr_L7PdG0k0)
-- [Sep 26th - Constructors, Destructors and current objects](https://youtu.be/Y6VNJuu03Co)
-- [Sep 28th - Constructors, Destructors and operator overloading review](https://youtu.be/gmfMDwnnLOU)
+- [Sep 12 - OOP intro](https://youtu.be/JNOX4XDOrBg)
+- [Sep 14 - references, overloading, DMA intro](https://youtu.be/RGS7ylieduE)
+- [Sep 19 - DMA](https://youtu.be/mtTvp21P-7U)
+- [Sep 21 - Member functions and privacy](https://youtu.be/rr_L7PdG0k0)
+- [Sep 26 - Constructors, Destructors and current objects](https://youtu.be/Y6VNJuu03Co)
+- [Sep 28 - Constructors, Destructors and operator overloading review](https://youtu.be/gmfMDwnnLOU)
+- [Oct 03 - Constructors Q&A, Workshop 4](https://youtu.be/ab8dT0AzXZY)
+- [Oct 05 - Operators and Operator overload](https://youtu.be/UAssdp_55qs) Also watch Oct 4th of Section B
+- [Oct 12 - Rule of three;classes with resource](https://youtu.be/zD8tQ4XekKc)
+- [Oct 14 - All in one example (rule of 3, operator overload and DMA)](https://youtu.be/kHfB9wDNaWU)
 
 ### NBB
-- [Sep 6th - Introduction](https://youtu.be/o4ZxmmyRKx4)
-- [Sep 13th - OOP Intro](https://youtu.be/NKuj0zk0u48)
-- [Sep 16th - references, overloading](https://youtu.be/ynYbuvXlVGQ)
-- [Sep 20th - DMA](https://youtu.be/7ynsc03ILtQ)
-- [Sep 23rd - Member functions and privacy](https://youtu.be/23GqQ4eNeH4)
-- [Sep 27th - Constructors, Destructors and current object](https://youtu.be/zG_cuIov8y8)
-
+- [Sep 06 - Introduction](https://youtu.be/o4ZxmmyRKx4)
+- [Sep 13 - OOP Intro](https://youtu.be/NKuj0zk0u48)
+- [Sep 16 - references, overloading](https://youtu.be/ynYbuvXlVGQ)
+- [Sep 20 - DMA](https://youtu.be/7ynsc03ILtQ)
+- [Sep 23 - Member functions and privacy](https://youtu.be/23GqQ4eNeH4)
+- [Sep 27 - Constructors, Destructors and current object](https://youtu.be/zG_cuIov8y8)
+- [Sep 30 - Constturctors review and operator overload intro](https://youtu.be/q19o_Lmizz0)
+- [Oct 04 - operator Overloading](https://youtu.be/-bE0RNgOEpM) Also Watch Oct 5th of Section A
+- [Oct 07 - operator overloading **conversion(cast) overloading**](https://youtu.be/9fK58JeIBR4)
+- [Oct 11 - Rule of Three; classes with resource](https://youtu.be/MubE_KsKOy8)
+- [Oct 14 - All in one example (rule of 3, operator overload and DMA)](https://youtu.be/kHfB9wDNaWU)
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/team/19%3a2hdGro6WaVUDjrFIHHNuD9Q-oRzNJzcCtxiSwfufwTg1%40thread.tacv2/conversations?groupId=4fc12032-1253-4d66-ace0-b42fa38b540f&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
